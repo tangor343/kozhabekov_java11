@@ -15,7 +15,7 @@ Run:
 java -cp target/classes org.kaibar.Main
 
 Example:
-
+___
 Hello, please enter a number (decimal ok, if you enter "," it will be changed to "."):
 441
 Hello
@@ -43,4 +43,4 @@ n
 1273.605
 195
 1969.8000000000002
-
+___
