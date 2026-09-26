@@ -1,6 +1,6 @@
 Java Console Application
 
-Simple Java algorithm.
+Simple Java algorithm. Input number will be trimmed and "," will be replaced to "."
 
 Requirements
 JDK 11+
@@ -14,33 +14,3 @@ mvn compile
 Run:
 java -cp target/classes org.kaibar.Main
 
-Example:
-___
-Hello, please enter a number (decimal ok, if you enter "," it will be changed to "."):
-441
-Hello
-Enter the name: 
-John
-Hello, John
-Enter numeric values for array, input "n" to stop populating
-Enter value: 
-543
-Enter "n" to stop inputting numbers, or press enter to continue
-23.32
-Enter value: 
-424.535
-Enter "n" to stop inputting numbers, or press enter to continue
-34
-Enter value: 
-65
-Enter "n" to stop inputting numbers, or press enter to continue
-
-Enter value: 
-656.6
-Enter "n" to stop inputting numbers, or press enter to continue
-n
-1629
-1273.605
-195
-1969.8000000000002
-___
