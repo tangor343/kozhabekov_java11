@@ -6,8 +6,8 @@ Simple Java algorithm. Numbers will be trimmed and "," will be replaced to "."
 - Then you will be asked to populate an array with numbers, input as many as you want, finish populating the array by entering "n" when asked, the resulted elements of the array will then be displayed in the console, with each value multiplied by 3.
 
 ## Requirements
-JDK 11+
-Maven
+- JDK 11+
+- Maven
 
 ## Compile
 From the project root:
