@@ -39,7 +39,7 @@ public class Main {
             String input = scanner.nextLine();
             Number number = evaluateNumber(getCleanedNumStr(input));
             numbers.add(number);
-            System.out.println("Enter \"n\" to stop inputting numbers, or press enter to continue");
+            System.out.println("Enter \"n\" to stop, or press enter to continue");
             if(scanner.nextLine().equals("n")) {
                 isPopulating = false;
             }
